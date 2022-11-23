@@ -1,3 +1,4 @@
+# sandbox3 test exported to github
 # simple tests with vue3, buttons by template, props, emit ...
 
 # netter link mit Pinia https://codesandbox.io/s/pinia-vue-3-demo-j4qzw?file=/src/stores/cart.js
